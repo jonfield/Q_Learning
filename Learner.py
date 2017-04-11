@@ -1,4 +1,4 @@
-__author__ = 'Jon'
+__author__ = 'Phillipe'
 import World
 import threading
 import time
