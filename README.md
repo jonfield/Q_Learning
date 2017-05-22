@@ -1,7 +1,7 @@
 # Overview
 
 This code is based off of the "How to use Q Learning in video games easily" video on Youtube by Siraj Raval.
-The credits for the code go to PhillipeMorere, I have simply changed some parameters for my own learning.
+The credits for the World.py code go to PhillipeMorere, I have simply changed some parameters for my own learning.
 
 #Dependencies
 
